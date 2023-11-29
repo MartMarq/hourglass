@@ -15,3 +15,7 @@ right hourglass - minutes
 by pressing the right upper button you can switch between the two watchfaces
 
 ![hourglas](https://github.com/MartMarq/hourglass/assets/139223739/81971d30-6407-40fd-b44f-f661404d2b48)
+
+on the left hand side, there are 23 "marbles"
+
+on the right 59.
