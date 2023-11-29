@@ -108,7 +108,7 @@ void Uhr::drawWatchFace() {
 
     display.drawBitmap(0, 0, sanduhr, 100, 200, GxEPD_BLACK);
     display.drawBitmap(100, 0, sanduhr, 100, 200, GxEPD_BLACK);
-
+    n=1;
     for (n; n <= 23; n++) {
 
       if (n <= stundeA) {
